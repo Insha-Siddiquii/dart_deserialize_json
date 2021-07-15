@@ -1,0 +1,116 @@
+{
+    "seasons": [
+        {
+            "air_date": "2018-08-10",
+            "episode_count": 12,
+            "id": 106143,
+            "name": "Season 1",
+            "overview": "",
+            "season_number": 1,
+            "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOaCE38AO1taJqP5URe3KBlp9LN.jpg",
+            "cover_big": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dOaCE38AO1taJqP5URe3KBlp9LN.jpg"
+        },
+        {
+            "air_date": "2019-10-11",
+            "episode_count": 10,
+            "id": 133035,
+            "name": "Season 2",
+            "overview": "",
+            "season_number": 2,
+            "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dShuHk1JAl5peVoQsYtqlUtnGm2.jpg",
+            "cover_big": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/dShuHk1JAl5peVoQsYtqlUtnGm2.jpg"
+        }
+    ],
+    "info": {
+        "name": "Insatiable",
+        "cover": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHZ4xqGQlmyiFTOVtwnNpTcZgkd.jpg",
+        "plot": "A bullied teenager turns to beauty pageants as a way to exact her revenge, with the help of a disgraced coach who soon realizes he's in over his head.",
+        "cast": "Debby Ryan, Dallas Roberts, Kimmy Shields, Vincent Rodriguez III",
+        "director": "",
+        "genre": "Drama, Comedy",
+        "releaseDate": "2018-08-10",
+        "last_modified": "1618255750",
+        "rating": "8",
+        "rating_5based": 4,
+        "backdrop_path": [
+            "https://image.tmdb.org/t/p/w1280/dsBkVh0PWJ68ceJ58oJo63Plm63.jpg"
+        ],
+        "youtube_trailer": "z-81WVD8xTs",
+        "episode_run_time": "45",
+        "category_id": "48"
+    },
+    "episodes": 
+       [
+            {
+                "id": "219313",
+                "episode_num": 4,
+                "title": "Insatiable S01 E04",
+                "container_extension": "mp4",
+                "info": {
+                    "releasedate": "",
+                    "plot": "",
+                    "duration_secs": 0,
+                    "duration": "00:00:00",
+                    "video": [],
+                    "audio": [],
+                    "bitrate": 0,
+                    "rating": "",
+                    "season": "01",
+                    "tmdb_id": "",
+                    "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qswatoEcbpsPtgSrTwHj72vsUTP.jpg"
+                },
+                "custom_sid": "",
+                "added": "1618255747",
+                "season": 1,
+                "direct_source": ""
+            },
+            {
+                "id": "219314",
+                "episode_num": 5,
+                "title": "Insatiable S01 E05",
+                "container_extension": "mp4",
+                "info": {
+                    "releasedate": "",
+                    "plot": "",
+                    "duration_secs": 0,
+                    "duration": "00:00:00",
+                    "video": [],
+                    "audio": [],
+                    "bitrate": 0,
+                    "rating": "",
+                    "season": "01",
+                    "tmdb_id": "",
+                    "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/luFKs8wL7F4tA6X2U7ydhMrbXZZ.jpg"
+                },
+                "custom_sid": "",
+                "added": "1618255747",
+                "season": 1,
+                "direct_source": ""
+            },
+            {
+                "id": "219316",
+                "episode_num": 7,
+                "title": "Insatiable S01 E07",
+                "container_extension": "mp4",
+                "info": {
+                    "releasedate": "",
+                    "plot": "",
+                    "duration_secs": 0,
+                    "duration": "00:00:00",
+                    "video": [],
+                    "audio": [],
+                    "bitrate": 0,
+                    "rating": "",
+                    "season": "01",
+                    "tmdb_id": "",
+                    "movie_image": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/21XDALsjvii1MlnISPzD96gyPWq.jpg"
+                },
+                "custom_sid": "",
+                "added": "1618255747",
+                "season": 1,
+                "direct_source": ""
+            }
+        ]
+    
+    
+}
